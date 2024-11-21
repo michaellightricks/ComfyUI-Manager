@@ -17548,6 +17548,28 @@
             ],
             "install_type": "unzip",
             "description": "This is a node to convert an image into a CMYK Halftone dot image."
+        },
+        {
+            "author": "licyk",
+            "title": "ComfyUI-HakuImg",
+            "id": "HakuImg",
+            "reference": "https://github.com/licyk/ComfyUI-HakuImg",
+            "files": [
+                "https://github.com/licyk/ComfyUI-HakuImg"
+            ],
+            "install_type": "git-clone",
+            "description": "Image processing tool for ComfyUI"
+        },
+        {
+            "author": "lightricks",
+            "title": "ComfyUI-LTXVideo",
+            "id": "ltxv",
+            "reference": "https://github.com/Lightricks/ComfyUI-LTXVideo",
+            "files": [
+                "https://github.com/Lightricks/ComfyUI-LTXVideo"
+            ],
+            "install_type": "git-clone",
+            "description": "ComfyUI nodes for LTXVideo model."
         }
     ]
 }
